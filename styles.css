@@ -1,0 +1,41 @@
+body{
+    background-color: #161616;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+p{
+    text-align: justify;
+    font-weight: bold;
+}
+
+
+img{ 
+    border-radius: 30px;
+    height: 500px;
+}
+
+img{
+    display: block;
+    margin: 20px auto;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: violet
+}
+
+nav ul{
+    list-style: none;
+}
